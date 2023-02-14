@@ -1,4 +1,4 @@
 hello
 this is a test file
-which is about to be merged
+which is about to be merged and something
 with a mistake in spelling
